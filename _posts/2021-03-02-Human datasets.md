@@ -1,5 +1,8 @@
 ---
 layout: default
+toc: true
+toc_label: "Test Title"
+toc_icon: "cog"
 ---
 
 List with databases
