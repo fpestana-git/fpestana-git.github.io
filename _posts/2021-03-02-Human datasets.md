@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Human datasets
 ---
 
 List with databases
