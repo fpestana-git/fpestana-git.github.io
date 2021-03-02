@@ -107,4 +107,4 @@ Multiomics
 [^27]: https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2
 [^28]: https://www.nature.com/articles/s41587-019-0290-0#data-availability
 [^29]: https://www.nature.com/articles/s41586-019-1917-5#Sec7
-[^30]: https://genome.cshlp.org/content/30/5/776
+[^30]: [https://genome.cshlp.org/content/30/5/776](https://genome.cshlp.org/content/30/5/776)
