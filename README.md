@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Blogging Like a Pro
+---
 
 List with databases
 https://www.cell.com/neuron/fulltext/S0896-6273(17)30936-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627317309364%3Fshowall%3Dtrue
@@ -13,14 +16,13 @@ QUESTIONS:
 - Is snare-seq 3'end?
 
 
----
 
 ### [[SMART-seq technology]]
 [[2019_Hodge]] [^1]: Has restricted access (nemoarchive); Ed Lein lab
 [[2020_Alsema]] [^15]: microglia; Smart-seq2 modified for 3'end. not useful
 [[2020_Bakken]] [^27]
 
----
+
 ### [[Fluidigm-C1]]
 2015_Pollen [^20]: Kriegstein lab; SMARTer; 393 cells
 2015_Darmanis [^21] 466 cells
@@ -30,21 +32,21 @@ QUESTIONS:
 [[2017_Nowakowski]] [^9]: Kriegstein lab. SMARTer tech
 [[2018_Li]] [^22]
 
----
+
 ### [[STRT-seq]]
 [[2018_Fan]] [^25] 
 [[2018_Zhong]] [^13]
 [[2020_Fan]][^7]
 
----
+
 ### [[sci-RNA-seq3]]
 2020_Cao https://science.sciencemag.org/content/370/6518/eaba7721
 
----
+
 ### [[Microwell-seq]]
 2020_Han [^12]
 
----
+
 ### [[10x genomics]]
 2019_Velmeshev [^2]: Kriegstein Lab
 2019_Mathys [^3]: [[Tsai lab]]
@@ -62,19 +64,19 @@ QUESTIONS:
 2021_Khrameeva [^30]
 
 
----
+
 ### [[Drop-seq]]
 2020_Habib[^5]: 
 
----
+
 ### [[CEL-seq2]]
 2019_Sorrells[^17]
 
----
+
 ### [[inDrops]]
 2018_Renthal [^18]
 
----
+
 ### [[SNARE-seq]]
 2019_Chen [^28]  https://knowledge.brain-map.org/data/TGNO3HM2KO03B5EWGBT/summary raw data
 
