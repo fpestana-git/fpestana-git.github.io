@@ -1,6 +1,9 @@
 ---
 layout: default
 title: FPKnowledgeBase
+toc: true
+toc_label: "table of contents"
+toc_icon: "cog"
 ---
 
 ## Welcome to my personal knowledge base
