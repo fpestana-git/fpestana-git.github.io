@@ -32,7 +32,7 @@ Syntax highlighted code block
 
 
 ```
-[A second page](./_posts/2021-03-02-Human datasets.md)
+[A second page](/_posts/2021-03-02-Human datasets.md)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
