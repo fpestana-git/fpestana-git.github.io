@@ -77,9 +77,9 @@ Multiomics
 [[2019_Mayer]][^26] calcium + scRNA-seq
 
 
-**References**
--[^1]: [https://www.nature.com/articles/s41586-019-1506-7](https://www.nature.com/articles/s41586-019-1506-7)
--[^2]: [https://science.sciencemag.org/content/364/6441/685/tab-pdf](https://science.sciencemag.org/content/364/6441/685/tab-pdf)
+### References
+- [^1]: [https://www.nature.com/articles/s41586-019-1506-7](https://www.nature.com/articles/s41586-019-1506-7)
+- [^2]: [https://science.sciencemag.org/content/364/6441/685/tab-pdf](https://science.sciencemag.org/content/364/6441/685/tab-pdf)
 - [^3]: [https://www.nature.com/articles/s41586-019-1195-2](https://www.nature.com/articles/s41586-019-1195-2)
 - [^4]: [https://science.sciencemag.org/content/352/6293/1586](https://science.sciencemag.org/content/352/6293/1586)
 - [^5]: [https://www.nature.com/articles/s41593-020-0624-8](https://www.nature.com/articles/s41593-020-0624-8)
