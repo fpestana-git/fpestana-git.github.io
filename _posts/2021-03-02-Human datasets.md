@@ -15,13 +15,14 @@ QUESTIONS:
 - Is snare-seq 3'end?
 
 
-
+```
 ### [[SMART-seq technology]]
 [[2019_Hodge]] [^1]: Has restricted access (nemoarchive); Ed Lein lab
 [[2020_Alsema]] [^15]: microglia; Smart-seq2 modified for 3'end. not useful
 [[2020_Bakken]] [^27]
+```
 
-
+```
 ### [[Fluidigm-C1]]
 2015_Pollen [^20]: Kriegstein lab; SMARTer; 393 cells
 2015_Darmanis [^21] 466 cells
@@ -30,22 +31,26 @@ QUESTIONS:
 2016_Liu [^19]: Kriegstein lab; SMARTer; 226 cells
 [[2017_Nowakowski]] [^9]: Kriegstein lab. SMARTer tech
 [[2018_Li]] [^22]
+```
 
-
+```
 ### [[STRT-seq]]
 [[2018_Fan]] [^25] 
 [[2018_Zhong]] [^13]
 [[2020_Fan]][^7]
+```
 
-
+```
 ### [[sci-RNA-seq3]]
 2020_Cao https://science.sciencemag.org/content/370/6518/eaba7721
+```
 
-
+```
 ### [[Microwell-seq]]
 2020_Han [^12]
+```
 
-
+```
 ### [[10x genomics]]
 2019_Velmeshev [^2]: Kriegstein Lab
 2019_Mathys [^3]: [[Tsai lab]]
@@ -61,7 +66,7 @@ QUESTIONS:
 2020_Zhong[^29]
 2021_Leng [^6]: AD
 2021_Khrameeva [^30]
-
+```
 
 
 ### [[Drop-seq]]
