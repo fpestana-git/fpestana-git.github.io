@@ -6,6 +6,9 @@ toc_label: "table of contents"
 toc_icon: "cog"
 ---
 
+* auto-gen TOC:
+{:toc}
+
 ## Welcome to my personal knowledge base
 
 In this website/blog I intend to summarize the current state-of-the-art knowledge on several topics, mostly to learn and understand my gaps.
