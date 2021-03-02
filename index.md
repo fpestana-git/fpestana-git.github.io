@@ -1,6 +1,6 @@
 ---
 layout: default
-title: testing title
+title: FPKnowledgeBase
 ---
 
 ## Welcome to GitHub Pages
