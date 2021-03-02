@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Pro
+title: README
 ---
 
 List with databases
