@@ -1,16 +1,9 @@
 ---
 layout: default
 title: FPKnowledgeBase
-toc: true
-toc_label: "table of contents"
-toc_icon: "cog"
-
-sidebar:
-  nav: "docs"
 ---
 
-* auto-gen TOC:
-{:toc}
+
 
 ## Welcome to my personal knowledge base
 
