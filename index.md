@@ -4,6 +4,9 @@ title: FPKnowledgeBase
 toc: true
 toc_label: "table of contents"
 toc_icon: "cog"
+
+sidebar:
+  nav: "docs"
 ---
 
 * auto-gen TOC:
