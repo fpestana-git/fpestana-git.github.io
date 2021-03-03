@@ -1,5 +1,8 @@
 ---
 layout: default
+
+sidebar:
+  nav: "sidebar-sample"
 ---
 
 List with databases
