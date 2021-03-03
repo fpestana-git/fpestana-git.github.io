@@ -6,7 +6,7 @@ toc_label: "table of contents"
 toc_icon: "cog"
 
 sidebar:
-  nav: "docs"
+  nav: "_posts"
 ---
 
 * auto-gen TOC:
