@@ -3,7 +3,7 @@ layout: default
 
 sidebar:
   title: "Sample Title"
-  nav: sidebar-sample
+  nav: "sidebar-sample
 ---
 
 List with databases
