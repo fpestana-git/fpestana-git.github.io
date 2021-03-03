@@ -1,10 +1,6 @@
 ---
 layout: default
 title: FPKnowledgeBase
-
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
 ---
 
 
