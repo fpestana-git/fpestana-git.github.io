@@ -2,23 +2,20 @@
 title: FPKnowledgeBase
 ---
 
-# Test knowledge database
-
-Access through https://fpestana-git.github.io
-
-
 ## Welcome to my personal knowledge base
 
 In this website/blog I intend to summarize the current state-of-the-art knowledge on several topics, mostly to learn and understand my gaps.
 
 ### Content
 
-I will add what I keep learning such as which [human datasets](/docs/_posts/2021-03-02-Human datasets.md) containing neurons/astrocytes have been published.
+Topics (mostly scientific) can be selected on the left sidebar.
+I will add what I keep learning such as which [human datasets](/docs/2021-03-02-Human datasets.md) containing neurons/astrocytes have been published.
 
-[Down Syndrome](/_posts/2021-03-02-Down Syndrome.md)
-[iPSC models of Down Syndrome](/_posts/2021-03-02-DS models.md)
+Others such as:
+- [Down Syndrome](/docs/_posts/2021-03-02-Down Syndrome.md)
+- [iPSC models of Down Syndrome](/docs/_posts/2021-03-02-DS models.md)
 
 ### Comments
 
-Comments and suggestions will be accepted, once I figure out how to implement that.
+Comments and suggestions will be accepted, once I figure out how to implement that, if it is even possible.
 
