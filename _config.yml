@@ -1,12 +1,6 @@
 title: Test title
-#theme: jekyll-theme-cayman
+
 remote_theme: rundocs/jekyll-rtd-theme
 
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: sidebar-sample
-    values:
-      sidebar:
-        nav: "sidebar-sample"
+readme_index:
+  with_frontmatter: true
