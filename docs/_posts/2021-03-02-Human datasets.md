@@ -2,7 +2,8 @@
 layout: default
 
 sidebar:
-  nav: "sidebar-sample"
+  title: "Sample Title"
+  nav: sidebar-sample
 ---
 
 List with databases
