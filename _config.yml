@@ -5,7 +5,7 @@ defaults:
   # _docs
   - scope:
       path: ""
-      type: docs
+      type: sidebar-sample
     values:
       sidebar:
-        nav: sidebar-sample
+        nav: "sidebar-sample"
