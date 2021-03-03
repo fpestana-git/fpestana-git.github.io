@@ -1,7 +1,4 @@
----
-layout: default
 
----
 
 List with databases
 https://www.cell.com/neuron/fulltext/S0896-6273(17)30936-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627317309364%3Fshowall%3Dtrue
