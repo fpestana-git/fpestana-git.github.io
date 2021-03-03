@@ -1,2 +1,6 @@
 title: Test title
 theme: jekyll-theme-cayman
+
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
