@@ -1,3 +1,4 @@
+# RNA-seq quality control
 An important step for analysis of [[RNA-seq]] data
 
 ### Quality control tools
