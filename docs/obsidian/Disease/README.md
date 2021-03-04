@@ -4,4 +4,4 @@ sort: 2
 
 # Disease
 
-{% include list.liquid %}
+[table of contents\]({{ site.baseurl }}/docs/)
