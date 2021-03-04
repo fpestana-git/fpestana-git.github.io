@@ -1,0 +1,29 @@
+# Testing rmd to rm conversion
+
+``` r
+summary(cars)
+```
+
+    ##      speed           dist       
+    ##  Min.   : 4.0   Min.   :  2.00  
+    ##  1st Qu.:12.0   1st Qu.: 26.00  
+    ##  Median :15.0   Median : 36.00  
+    ##  Mean   :15.4   Mean   : 42.98  
+    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
+    ##  Max.   :25.0   Max.   :120.00
+
+``` r
+library(ggplot2)
+ggplot(mpg, aes(displ, hwy)) +
+  geom_point(aes(color = class)) +
+  geom_smooth(se = FALSE, method = "loess") +
+  labs(
+    title = "Fuel efficiency generally decreases with engine size",
+    subtitle = "Two seaters (sports cars) are an exception because of their light weight",
+    caption = "Data from fueleconomy.gov"
+  )
+```
+
+    ## `geom_smooth()` using formula 'y ~ x'
+
+![](original_files/figure-markdown_github/unnamed-chunk-1-1.png)
