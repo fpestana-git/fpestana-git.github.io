@@ -1,11 +1,10 @@
 # Human datasets
 
-List with databases
-https://www.cell.com/neuron/fulltext/S0896-6273(17)30936-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627317309364%3Fshowall%3Dtrue
+
+[List with datasets](https://pubmed.ncbi.nlm.nih.gov/29096072/)
 
 This list does not include RNA-seq data from organoids
 
-Assess to raw data is access controlled in most cases (e.g. dbGaP, Synapse)
 
 QUESTIONS:
 - What is exactly the coverage of STRT-seq?
@@ -13,33 +12,33 @@ QUESTIONS:
 
 
 
-**[SMART-seq technology](2021-03-04-SMART-seq-technology.md)**
+**[SMART-seq technology](2021-03-04-Library-prep#SMART-seq-technologies)**
 
 - [2019_Hodge](#hodge-et-al-2019) [^1]: Has restricted access (nemoarchive); Ed Lein lab
-- [[2020_Alsema]] [^15]: microglia; Smart-seq2 modified for 3'end. not useful
-- [[2020_Bakken]] [^27]
+- 2020_Alsema [^15]: microglia; Smart-seq2 modified for 3'end. not useful
+- 2020_Bakken [^27]
 
-**[[Fluidigm-C1]]**
+**[Fluidigm-C1](2021-03-04-Library-prep#Fluidigm-C1)**
 - 2015_Pollen [^20]: Kriegstein lab; SMARTer; 393 cells
 - 2015_Darmanis [^21] 466 cells
 - 2016_LaManno [^11] STRT protocol; 1777 cells
-- [[2016_Lake]][^4]: 3227 cells
+- 2016_Lake[^4]: 3227 cells
 - 2016_Liu [^19]: Kriegstein lab; SMARTer; 226 cells
-- [[2017_Nowakowski]] [^9]: Kriegstein lab. SMARTer tech
-- [[2018_Li]] [^22]
+- 2017_Nowakowski [^9]: Kriegstein lab. SMARTer tech
+- 2018_Li [^22]
 
-**[[STRT-seq]]**
-- [[2018_Fan]] [^25] 
-- [[2018_Zhong]] [^13]
-- [[2020_Fan]][^7]
+**[STRT-seq](2021-03-04-Library-prep^STRT-seq)**
+- 2018_Fan[^25] 
+- 2018_Zhong[^13]
+- 2020_Fan[^7]
 
-**[[sci-RNA-seq3]]**
-- 2020_Cao https://science.sciencemag.org/content/370/6518/eaba7721
+**sci-RNA-seq3**
+- 2020_Cao[^31]
 
-**[[Microwell-seq]]**
-- 2020_Han [^12]
+**Microwell-seq**
+- 2020_Han[^12]
 
-**[[10x genomics]]**
+**10x genomics**
 - 2019_Velmeshev [^2]: Kriegstein Lab
 - 2019_Mathys [^3]: [[Tsai lab]]
 - 2019_Grubman[^16]
@@ -50,30 +49,30 @@ QUESTIONS:
 - 2020_Alsema [^15]: microglia
 - 2020_Nagy
 - 2020_Lau[^23]
-- [[2020_Zhou]] [^24] but 5 prime end
+- 2020_Zhou[^24] but 5 prime end
 - 2020_Zhong[^29]
 - 2021_Leng [^6]: AD
 - 2021_Khrameeva [^30]
 
 
 
-**[[Drop-seq]]**
+**Drop-seq**
 - 2020_Habib[^5]: 
 
 
-**[[CEL-seq2]]**
+**CEL-seq2**
 - 2019_Sorrells[^17]
 
 
-**[[inDrops]]**
+**inDrops**
 - 2018_Renthal [^18]
 
 
-**[[SNARE-seq]]**
-- 2019_Chen [^28]  https://knowledge.brain-map.org/data/TGNO3HM2KO03B5EWGBT/summary raw data
+**SNARE-seq**
+- 2019_Chen [^28] : [raw data](https://knowledge.brain-map.org/data/TGNO3HM2KO03B5EWGBT/summary)
 
 **Multiomics**
-[[2019_Mayer]][^26] calcium + scRNA-seq
+2019_Mayer[^26] calcium + scRNA-seq
 
 # Hodge et al 2019
 Raw data from nemoarchive: [https://nemoarchive.org/resources/accessing-controlled-access-data.php]( https://nemoarchive.org/resources/accessing-controlled-access-data.php)
@@ -132,3 +131,4 @@ Number of cells detected per cell cluster:
 [^28]: [https://www.nature.com/articles/s41587-019-0290-0#data-availability](https://www.nature.com/articles/s41587-019-0290-0#data-availability)
 [^29]: [https://www.nature.com/articles/s41586-019-1917-5#Sec7](https://www.nature.com/articles/s41586-019-1917-5#Sec7)
 [^30]: [https://genome.cshlp.org/content/30/5/776](https://genome.cshlp.org/content/30/5/776)
+[^31]: [https://science.sciencemag.org/content/370/6518/eaba7721](https://science.sciencemag.org/content/370/6518/eaba7721)

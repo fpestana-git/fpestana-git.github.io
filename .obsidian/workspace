@@ -10,8 +10,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "coding/README.md",
+            "file": "RNA-seq/2021-03-02-Human-datasets.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a6a146a8674200c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Disease/2021-03-02-DS-models.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/README.md",
+                "file": "RNA-seq/2021-03-02-Human-datasets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "coding/README.md",
-    "coding/2021-03-04-test-coding.md",
-    "coding/2021-03-02-test.md",
-    "README.md",
+    "RNA-seq/2021-03-02-Human-datasets.md",
+    "RNA-seq/README.md",
+    "RNA-seq/2021-03-04-Access-datasets.md",
+    "RNA-seq/2021-03-04-Library-prep.md",
+    "2021-03-04-Library-prep^Fluidigm-C1.md",
+    "RNA-seq/2021-03-04-RNA-seq-method.md",
+    "Disease/2021-03-03-DS-iPSC.md",
     "Disease/2021-03-02-DS-models.md",
     "Disease/2021-03-02-Down-Syndrome.md",
-    "cv/README.md",
-    "RNA-seq/README.md",
-    "about/README.md",
     "Disease/README.md"
   ]
 }
