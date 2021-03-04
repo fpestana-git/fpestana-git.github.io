@@ -4,4 +4,4 @@ sort: 1
 
 # obsidian master
 
-{% include list.liquid %}
+[table of contents\]({{ site.baseurl }}/docs/)
