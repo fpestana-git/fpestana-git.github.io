@@ -14,7 +14,7 @@ QUESTIONS:
 
 
 **[SMART-seq technology](/2021-03-04-SMART-seq technology.md)**
-- [2019_Hodge](#hodge-et-al.-2018)[^1]: Has restricted access (nemoarchive); Ed Lein lab
+- [2019_Hodge](#hodge-et-al-2019)[^1]: Has restricted access (nemoarchive); Ed Lein lab
 - [[2020_Alsema]] [^15]: microglia; Smart-seq2 modified for 3'end. not useful
 - [[2020_Bakken]] [^27]
 
@@ -74,7 +74,7 @@ QUESTIONS:
 **Multiomics**
 [[2019_Mayer]][^26] calcium + scRNA-seq
 
-# Hodge et al. 2018
+# Hodge et al 2019
 Raw data from nemoarchive https://nemoarchive.org/resources/accessing-controlled-access-data.php
 Count table from https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq
 Data included in https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq dataset
