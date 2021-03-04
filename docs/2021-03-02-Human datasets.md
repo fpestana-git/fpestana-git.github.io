@@ -75,22 +75,28 @@ QUESTIONS:
 [[2019_Mayer]][^26] calcium + scRNA-seq
 
 # Hodge et al 2019
-Raw data from nemoarchive https://nemoarchive.org/resources/accessing-controlled-access-data.php
-Count table from https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq
-Data included in https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq dataset
+Raw data from nemoarchive: [https://nemoarchive.org/resources/accessing-controlled-access-data.php]( https://nemoarchive.org/resources/accessing-controlled-access-data.php)
+Count table from: [https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq](https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq)
+Data included in: [https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq](https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq) meta dataset
+Lab: Ed Lein
 
 Number of samples:
 - 8 samples (3 male and 4 female)
+
 Ages:
 - 24-66yo
+
 Brain region:
 - Middle temporal gyrus (MTG)
+
 Technology used:
-- Smart seq technology
+- [SMART-seq technology](/docs/2021-03-04-SMART-seq technology)
+
 Total number of cells: 
 - 15928 nuclei
-Number of cells detected per cell cluster:
 
+Number of cells detected per cell cluster:
+- Did not check
 **References**
 
 [^1]: [https://www.nature.com/articles/s41586-019-1506-7](https://www.nature.com/articles/s41586-019-1506-7)
