@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ccdc8f6a183c3873",
+        "id": "d1623ba8ef2e7697",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RNA-seq/README.md",
+            "file": "RNA-seq/2021-03-02-Human-datasets.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354
   },
   "right": {
     "id": "a7c941bee448cbe4",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RNA-seq/README.md",
+                "file": "RNA-seq/2021-03-02-Human-datasets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "RNA-seq/2021-03-02-Human-datasets.md",
+    "2020_Alsema.md",
+    "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
+    "RNA-seq/2021-03-04-SMART-seq technology.md",
     "RNA-seq/README.md",
-    "Disease/README.md",
-    "Disease/list.md",
-    "Disease/2021-03-02-DS models.md",
-    "Disease/2021-03-03-DS iPSC.md",
-    "Disease/2021-03-02-Down Syndrome.md",
     "README.md",
-    "RNA-seq/2021-03-04-RNA-seq quality control.md",
     "RNA-seq/2021-03-02-Human datasets.md",
-    "cv/README.md"
+    "Disease/2021-03-02-Down Syndrome.md",
+    "Disease/2021-03-02-DS-models.md",
+    "Disease/2021-03-02-DS models.md"
   ]
 }
