@@ -15,6 +15,10 @@ Others such as:
 - [Down Syndrome](/docs/_posts/2021-03-02-Down Syndrome.md)
 - [iPSC models of Down Syndrome](/docs/_posts/2021-03-02-DS models.md)
 
+### Integration Obsidian github pages
+Here is the location for a test file generated within obsidian
+- [test page](/docs/obsidian/2021-03-04-test.md)
+
 ### Comments
 
 Comments and suggestions will be accepted, once I figure out how to implement that, if it is even possible.
