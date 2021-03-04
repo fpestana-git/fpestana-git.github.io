@@ -1,6 +1,7 @@
 # SMART-seq technologies
 
-Using Smart-seq, smart-seq2 or library preparation method Library preparation > ^28847d
+Using Smart-seq, smart-seq2 or library preparation method Library preparation 
+
 
 SMARTer® Ultra® Low RNA kit is known as Smart-Seq
 SMART-Seq® v4 Ultra® Low Input RNA Kit improved Smart-seq2
