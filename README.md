@@ -10,8 +10,11 @@ In this knowledge database I intend to explore the current state-of-the-art know
 I am currently using [Obsidian](https://obsidian.md) and github-pages
 
 1) Clone repository into local disk.
+
 2) In obsidian, selected the repository as vault
+
 3) Using Zettelkasten plugin: automatic date (YYYY-MM-DD-this-is-a-note). I do not include spaces as to allow backlinking in both obsidian and github pages
+
 4) Using github desktop: commit and push
 
 ### Content
