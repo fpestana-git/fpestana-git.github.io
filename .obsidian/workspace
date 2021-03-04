@@ -98,14 +98,14 @@
   },
   "lastOpenFiles": [
     "RNA-seq/2021-03-02-Human-datasets.md",
-    "RNA-seq/README.md",
     "RNA-seq/2021-03-04-Access-datasets.md",
+    "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
+    "RNA-seq/2021-03-04-RNA-seq-method.md",
+    "RNA-seq/README.md",
     "RNA-seq/2021-03-04-Library-prep.md",
     "2021-03-04-Library-prep^Fluidigm-C1.md",
-    "RNA-seq/2021-03-04-RNA-seq-method.md",
     "Disease/2021-03-03-DS-iPSC.md",
     "Disease/2021-03-02-DS-models.md",
-    "Disease/2021-03-02-Down-Syndrome.md",
-    "Disease/README.md"
+    "Disease/2021-03-02-Down-Syndrome.md"
   ]
 }

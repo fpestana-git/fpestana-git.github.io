@@ -74,6 +74,10 @@ QUESTIONS:
 **Multiomics**
 2019_Mayer[^26] calcium + scRNA-seq
 
+# Organoids
+
+list of [scRNA-seq organoids](https://www.sciencedirect.com/science/article/pii/S1084952119300035) publications
+
 # Hodge et al 2019
 Raw data from nemoarchive: [https://nemoarchive.org/resources/accessing-controlled-access-data.php]( https://nemoarchive.org/resources/accessing-controlled-access-data.php)
 Count table from: [https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq](https://portal.brain-map.org/atlases-and-data/rnaseq/human-multiple-cortical-areas-smart-seq)
