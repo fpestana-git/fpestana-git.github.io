@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "coding/2021-03-04-test-coding.md",
+            "file": "coding/README.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/2021-03-04-test-coding.md",
+                "file": "coding/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "coding/README.md",
     "coding/2021-03-04-test-coding.md",
     "coding/2021-03-02-test.md",
-    "coding/README.md",
+    "README.md",
     "Disease/2021-03-02-DS-models.md",
     "Disease/2021-03-02-Down-Syndrome.md",
     "cv/README.md",
     "RNA-seq/README.md",
     "about/README.md",
-    "Disease/README.md",
-    "README.md"
+    "Disease/README.md"
   ]
 }

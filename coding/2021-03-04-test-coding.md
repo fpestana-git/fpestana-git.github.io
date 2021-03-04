@@ -1,4 +1,4 @@
-# Testing rmd to rm conversion
+# R analysis (test)
 
 ``` r
 summary(cars)

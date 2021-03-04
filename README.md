@@ -17,6 +17,11 @@ I am currently using [Obsidian](https://obsidian.md) and github-pages
 
 4) Using github desktop: commit and push
 
+### coding (Rmd files)
+- Generate files with rstudio
+- knit to md file
+- Save to github repository
+
 ### Content
 
 Topics (mostly scientific) can be selected on the left sidebar.
