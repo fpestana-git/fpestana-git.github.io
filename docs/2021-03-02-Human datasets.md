@@ -13,12 +13,12 @@ QUESTIONS:
 
 
 
-### [[SMART-seq technology]]
+**[[SMART-seq technology]]**
 - [[2019_Hodge]] [^1]: Has restricted access (nemoarchive); Ed Lein lab
 - [[2020_Alsema]] [^15]: microglia; Smart-seq2 modified for 3'end. not useful
 - [[2020_Bakken]] [^27]
 
-### [[Fluidigm-C1]]
+**[[Fluidigm-C1]]**
 - 2015_Pollen [^20]: Kriegstein lab; SMARTer; 393 cells
 - 2015_Darmanis [^21] 466 cells
 - 2016_LaManno [^11] STRT protocol; 1777 cells
@@ -27,18 +27,18 @@ QUESTIONS:
 - [[2017_Nowakowski]] [^9]: Kriegstein lab. SMARTer tech
 - [[2018_Li]] [^22]
 
-### [[STRT-seq]]
+**[[STRT-seq]]**
 - [[2018_Fan]] [^25] 
 - [[2018_Zhong]] [^13]
 - [[2020_Fan]][^7]
 
-### [[sci-RNA-seq3]]
+**[[sci-RNA-seq3]]**
 - 2020_Cao https://science.sciencemag.org/content/370/6518/eaba7721
 
-### [[Microwell-seq]]
+**[[Microwell-seq]]**
 - 2020_Han [^12]
 
-### [[10x genomics]]
+**[[10x genomics]]**
 - 2019_Velmeshev [^2]: Kriegstein Lab
 - 2019_Mathys [^3]: [[Tsai lab]]
 - 2019_Grubman[^16]
@@ -56,26 +56,26 @@ QUESTIONS:
 
 
 
-### [[Drop-seq]]
+**[[Drop-seq]]**
 - 2020_Habib[^5]: 
 
 
-### [[CEL-seq2]]
+**[[CEL-seq2]]**
 - 2019_Sorrells[^17]
 
 
-### [[inDrops]]
+**[[inDrops]]**
 - 2018_Renthal [^18]
 
 
-### [[SNARE-seq]]
+**[[SNARE-seq]]**
 - 2019_Chen [^28]  https://knowledge.brain-map.org/data/TGNO3HM2KO03B5EWGBT/summary raw data
 
-Multiomics
+**Multiomics**
 [[2019_Mayer]][^26] calcium + scRNA-seq
 
 
-### References
+**References**
 [^1]: [https://www.nature.com/articles/s41586-019-1506-7](https://www.nature.com/articles/s41586-019-1506-7)
 [^2]: [https://science.sciencemag.org/content/364/6441/685/tab-pdf](https://science.sciencemag.org/content/364/6441/685/tab-pdf)
 [^3]: [https://www.nature.com/articles/s41586-019-1195-2](https://www.nature.com/articles/s41586-019-1195-2)
