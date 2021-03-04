@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "60661aa78ba2cc5a",
+    "id": "bbcb33d5eddaafe2",
     "type": "split",
     "children": [
       {
-        "id": "9529fa2359c73c21",
+        "id": "ccdc8f6a183c3873",
         "type": "leaf",
         "active": true,
         "state": {
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8723a91ef3f37345",
+    "id": "265d2cadc4a6f753",
     "type": "split",
     "children": [
       {
-        "id": "49b2100765a983c2",
+        "id": "f1211af2681141fb",
         "type": "tabs",
         "children": [
           {
-            "id": "6409c40bb132b513",
+            "id": "f464769b087a5c5c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "0589dc9e453a9dd6",
+            "id": "c10c7a4253c30f38",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,15 +56,15 @@
     "width": 300
   },
   "right": {
-    "id": "81087011aec57a7a",
+    "id": "a7c941bee448cbe4",
     "type": "split",
     "children": [
       {
-        "id": "dd2734523d3e8e6f",
+        "id": "5b8fdda99400709d",
         "type": "tabs",
         "children": [
           {
-            "id": "2306523f96096078",
+            "id": "2703d9f17d372c07",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -87,13 +87,7 @@
   },
   "lastOpenFiles": [
     "Disease/README.md",
-    "Disease/list.md",
-    "Disease/2021-03-03-DS iPSC.md",
-    "Disease/2021-03-02-DS models.md",
-    "Untitled.md",
-    "2021-03-03-DS iPSC.md",
-    "2021-03-02-Down Syndrome.md",
-    "2021-03-04-test.md",
-    "2021-03-02-test.md"
+    "docs/list.md",
+    "docs/README.md"
   ]
 }
