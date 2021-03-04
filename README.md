@@ -18,7 +18,7 @@ Others such as:
 ### Integration Obsidian github pages
 Here is the location for a test file generated within obsidian
 - [test page](/docs/obsidian/2021-03-04-test.md)
-- [rna seq quality](/docs/obsidian/2021-03-04-RNA-seq quality control.md)
+- [rna seq quality](/docs/obsidian/2021-03-04-RNA-seq-quality-control.md)
 
 ### Comments
 
