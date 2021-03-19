@@ -48,14 +48,15 @@ Main steps in library preparation
 --- 
 ###### Oligo(dT) priming and reverse transcription
 Use of template switching oligos (TSOs) to increase coverage of the 5'end of the transcripts[^1]
-- Oligo(dT) binds to the poly(A) sequences in the mRNA (RNA template)
-- The reverse transcriptase MMLV synthetises complementary DNA (cDNA) until reaches the 5'end of the RNA template
-- MMLV adds additional nucleotides (e.g. deoxycytidine CCC) to the 3'end of the new cDNA strand
-- TSO partially binds to this additional sequence
-- The MMLV completes reverse transcription of the remaining TSO sequence.
-![[Pasted image 20210319142722.png]]
-![[Pasted image 20210319140104.png]]
+![](TSO_1.png)
+![](original_files/figure-markdown_github/unnamed-chunk-1-1.png)
 
+
+
+![[Pasted image 20210319143614.png]]
+
+![[Pasted image 20210319143233.png]]
+![[Pasted image 20210319143614.png]]
 Depending on the assay (3' vs 5' end) the:
 1) Oligo(dT) sequence in bound to the gel bead and the TSO is in the RT primer
 2) TSO is bound in the gel bead and oligo(dT) sequence is in the RT primer
