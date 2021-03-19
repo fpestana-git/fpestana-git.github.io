@@ -49,14 +49,9 @@ Main steps in library preparation
 ###### Oligo(dT) priming and reverse transcription
 Use of template switching oligos (TSOs) to increase coverage of the 5'end of the transcripts[^1]
 ![](../TSO_1.png)
-![](original_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![](../TSO_2.png)
 
 
-
-![[Pasted image 20210319143614.png]]
-
-![[Pasted image 20210319143233.png]]
-![[Pasted image 20210319143614.png]]
 Depending on the assay (3' vs 5' end) the:
 1) Oligo(dT) sequence in bound to the gel bead and the TSO is in the RT primer
 2) TSO is bound in the gel bead and oligo(dT) sequence is in the RT primer
