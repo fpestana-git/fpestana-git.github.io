@@ -48,7 +48,7 @@ Main steps in library preparation
 --- 
 ###### Oligo(dT) priming and reverse transcription
 Use of template switching oligos (TSOs) to increase coverage of the 5'end of the transcripts[^1]
-![](TSO_1.png)
+![](../TSO_1.png)
 ![](original_files/figure-markdown_github/unnamed-chunk-1-1.png)
 
 
