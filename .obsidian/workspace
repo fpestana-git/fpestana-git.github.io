@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d1623ba8ef2e7697",
+        "id": "28e563ec5f502561",
         "type": "leaf",
-        "active": true,
+        "dimension": 49.7211155378486,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RNA-seq/2021-03-02-Human-datasets.md",
+            "file": "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "a6a146a8674200c5",
+        "id": "32c16a05b2e78584",
         "type": "leaf",
+        "dimension": 50.2788844621514,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Disease/2021-03-02-DS-models.md",
+            "file": "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
             "mode": "preview"
           }
         }
@@ -80,32 +81,43 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RNA-seq/2021-03-02-Human-datasets.md",
+                "file": "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "49d1a0eddc09600d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
+  "active": "28e563ec5f502561",
   "lastOpenFiles": [
-    "RNA-seq/2021-03-02-Human-datasets.md",
-    "RNA-seq/2021-03-04-Access-datasets.md",
     "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
-    "RNA-seq/2021-03-04-RNA-seq-method.md",
+    "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
+    "SpatialTranscriptomics/README.md",
+    "cv/README.md",
+    "Disease/README.md",
     "RNA-seq/README.md",
-    "RNA-seq/2021-03-04-Library-prep.md",
-    "2021-03-04-Library-prep^Fluidigm-C1.md",
-    "Disease/2021-03-03-DS-iPSC.md",
-    "Disease/2021-03-02-DS-models.md",
-    "Disease/2021-03-02-Down-Syndrome.md"
+    "Untitled.md",
+    "2021-05-14-spatial-transcriptomics.md",
+    "RNA-seq/2021-03-04-RNA-seq-method.md",
+    "RNA-seq/2021-03-04-Library-prep.md"
   ]
 }

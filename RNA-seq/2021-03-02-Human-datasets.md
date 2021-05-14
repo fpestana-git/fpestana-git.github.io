@@ -2,6 +2,7 @@
 
 
 [List with datasets](https://pubmed.ncbi.nlm.nih.gov/29096072/)
+https://bigd.big.ac.cn/gsa-human/ 
 
 This list does not include RNA-seq data from organoids
 
@@ -43,6 +44,7 @@ QUESTIONS:
 - 2019_Mathys [^3]: [[Tsai lab]]
 - 2019_Grubman[^16]
 - 2019_Sorrells[^17]
+- 2019_Jakel[^32]
 - 2020_Al-Dalahmah [^8]
 - 2020_Khrameeva [^10]
 - 2020_OteroGarcia [^14]
@@ -136,3 +138,4 @@ Number of cells detected per cell cluster:
 [^29]: [https://www.nature.com/articles/s41586-019-1917-5#Sec7](https://www.nature.com/articles/s41586-019-1917-5#Sec7)
 [^30]: [https://genome.cshlp.org/content/30/5/776](https://genome.cshlp.org/content/30/5/776)
 [^31]: [https://science.sciencemag.org/content/370/6518/eaba7721](https://science.sciencemag.org/content/370/6518/eaba7721)
+[^32]: [Jakel et al. 2019, Nature](https://doi.org/10.1038/s41586-019-0903-2)

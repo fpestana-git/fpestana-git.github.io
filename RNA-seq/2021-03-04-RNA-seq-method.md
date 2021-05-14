@@ -35,10 +35,11 @@ The following are full length.
 The following are full length with some bias
 - [[Quartz-seq]]
 - [[Quartz-seq2]]
-- [[STRT-seq]] a bit less coverage of the 5 prime end
 
-The following are 5' prime end tag
+
+The following are 5' prime end tag [summary here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5449089/)
 - [[Fluidigm-C1]]
+- [STRT-seq](#STRT-seq) 5' coverage
 
 The following are 3' prime end tag
 - [[10x genomics]]
@@ -56,7 +57,8 @@ Multimodal techniques
 - [[SNARE-seq]][^4]
 - Patch-seq
 
-- 
+# STRT-seq
+[explanation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5449089/)
 
 
 
