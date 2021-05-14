@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
+            "file": "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
+                "file": "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,8 @@
   },
   "active": "28e563ec5f502561",
   "lastOpenFiles": [
-    "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
     "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
+    "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
     "SpatialTranscriptomics/README.md",
     "cv/README.md",
     "Disease/README.md",
