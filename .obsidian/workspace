@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
+            "file": "RNA-seq/2021-03-04-Access-datasets.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
+                "file": "RNA-seq/2021-03-04-Access-datasets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +109,10 @@
   },
   "active": "28e563ec5f502561",
   "lastOpenFiles": [
+    "RNA-seq/2021-03-04-Access-datasets.md",
     "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
     "RNA-seq/2021-03-04-Library-prep.md",
     "RNA-seq/2021-03-04-RNA-seq-method.md",
-    "RNA-seq/2021-03-04-Access-datasets.md",
     "RNA-seq/2021-03-02-Human-datasets.md",
     "Disease/2021-03-03-DS-iPSC.md",
     "Disease/2021-03-02-DS-models.md",

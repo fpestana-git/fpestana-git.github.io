@@ -76,6 +76,17 @@ QUESTIONS:
 **Multiomics**
 2019_Mayer[^26] calcium + scRNA-seq
 
+
+| Author                                                              | Species     | Library Preparation | Number Samples  |
+| ------------------------------------------------------------------- | ----------- | ------------------- | ------------- |
+| [Hodge et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31435019/)     | Human/Mouse |         Smart-seq            | 49494 nuclei  |
+| [Velmeshev et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31097668/) | Human       |          10x           | 104559 nuclei |
+| [Mathys et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31042697/)    | Human       |        10x             | 70634 nuclei  | 
+
+
+
+
+
 # Organoids
 
 list of [scRNA-seq organoids](https://www.sciencedirect.com/science/article/pii/S1084952119300035) publications
