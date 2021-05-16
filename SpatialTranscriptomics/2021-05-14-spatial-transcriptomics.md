@@ -1,7 +1,7 @@
 ---
 cssclass: academia 
 ---
-<link rel="stylesheet" href="/css/academia.css">
+<link rel="stylesheet" href="../css/academia.css">
 
 List of recent spatial transcriptomic technologies:
 

@@ -110,14 +110,14 @@
   "active": "28e563ec5f502561",
   "lastOpenFiles": [
     "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
-    "RNA-seq/2021-03-02-Human-datasets.md",
-    "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
-    "RNA-seq/2021-03-04-Access-datasets.md",
     "RNA-seq/2021-03-04-Library-prep.md",
-    "SpatialTranscriptomics/README.md",
-    "cv/README.md",
-    "Disease/README.md",
-    "RNA-seq/README.md",
-    "Untitled.md"
+    "RNA-seq/2021-03-04-RNA-seq-method.md",
+    "RNA-seq/2021-03-04-Access-datasets.md",
+    "RNA-seq/2021-03-02-Human-datasets.md",
+    "Disease/2021-03-03-DS-iPSC.md",
+    "Disease/2021-03-02-DS-models.md",
+    "Disease/2021-03-02-Down-Syndrome.md",
+    "data_visualization/2021-03-19-Dimensionality-Reduction.md",
+    "coding/original_files/figure-markdown_github/unnamed-chunk-1-1.png"
   ]
 }
