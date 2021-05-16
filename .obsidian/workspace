@@ -105,19 +105,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "active": "28e563ec5f502561",
   "lastOpenFiles": [
     "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
+    "RNA-seq/2021-03-02-Human-datasets.md",
     "RNA-seq/2021-03-04-RNA-seq-quality-control.md",
+    "RNA-seq/2021-03-04-Access-datasets.md",
+    "RNA-seq/2021-03-04-Library-prep.md",
     "SpatialTranscriptomics/README.md",
     "cv/README.md",
     "Disease/README.md",
     "RNA-seq/README.md",
-    "Untitled.md",
-    "2021-05-14-spatial-transcriptomics.md",
-    "RNA-seq/2021-03-04-RNA-seq-method.md",
-    "RNA-seq/2021-03-04-Library-prep.md"
+    "Untitled.md"
   ]
 }
