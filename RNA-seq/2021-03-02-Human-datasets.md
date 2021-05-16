@@ -29,45 +29,7 @@ QUESTIONS:
 - 2018_Li [^22]
 
 **[STRT-seq](2021-03-04-Library-prep^STRT-seq)**
-- 2018_Fan[^25] 
-- 2018_Zhong[^13]
-- 2020_Fan[^7]
 
-**sci-RNA-seq3**
-- 2020_Cao[^31]
-
-**Microwell-seq**
-- 2020_Han[^12]
-
-**10x genomics**
-- 2019_Velmeshev [^2]: Kriegstein Lab
-- 2019_Mathys [^3]: [[Tsai lab]]
-- 2019_Grubman[^16]
-- 2019_Sorrells[^17]
-- 2019_Jakel[^32]
-- 2020_Al-Dalahmah [^8]
-- 2020_Khrameeva [^10]
-- 2020_OteroGarcia [^14]
-- 2020_Alsema [^15]: microglia
-- 2020_Nagy
-- 2020_Lau[^23]
-- 2020_Zhou[^24] but 5 prime end
-- 2020_Zhong[^29]
-- 2021_Leng [^6]: AD
-- 2021_Khrameeva [^30]
-
-
-
-**Drop-seq**
-- 2020_Habib[^5]: 
-
-
-**CEL-seq2**
-- 2019_Sorrells[^17]
-
-
-**inDrops**
-- 2018_Renthal [^18]
 
 
 **SNARE-seq**
@@ -77,11 +39,32 @@ QUESTIONS:
 2019_Mayer[^26] calcium + scRNA-seq
 
 
-| Author                                                              | Species     | Library Preparation | Number Samples  |
-| ------------------------------------------------------------------- | ----------- | ------------------- | ------------- |
-| [Hodge et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31435019/)     | Human/Mouse |         Smart-seq            | 49494 nuclei  |
-| [Velmeshev et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31097668/) | Human       |          10x           | 104559 nuclei |
-| [Mathys et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31042697/)    | Human       |        10x             | 70634 nuclei  | 
+
+| Author                                                                                                  | Species     | Library Preparation | Number Samples |                |
+| ------------------------------------------------------------------------------------------------------- | ----------- | ------------------- | -------------- | -------------- |
+| [Hodge et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31435019/)                                         | Human/Mouse | Smart-seq           | 49494 nuclei   |                |
+| [Velmeshev et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31097668/)                                     | Human       | 10x                 | 104559 nuclei  | Kriegstein Lab |
+| [Mathys et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31042697/)                                        | Human       | 10x                 | 70634 nuclei   | Tsai Lab       |
+| [Sorrells et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31227709/)                                      |             | CEL-seq2            |                |                |
+| [Habib et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32341542/)                                         |             | Drop-seq            |                |                |
+| [Grubman et al., 2019](https://www.nature.com/articles/s41593-019-0539-4)                               |             | 10x                 |                |                |
+| [Jakel et al., 2019](https://doi.org/10.1038/s41586-019-0903-2)                                         |             | 10x                 |                |                |
+| [Al-Dalahmah et al., 2020](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-0880-6) |             | 10x                 |                |                |
+| [Khrameeva et al., 2020](https://genome.cshlp.org/content/early/2020/05/19/gr.256958.119)               |             | 10x                 |                |                |
+| [OteroGarcia et al., 2020](https://www.biorxiv.org/content/10.1101/2020.05.11.088591v1)                 |             | 10x                 |                |                |
+| [Alsema et al., 2020](https://www.frontiersin.org/articles/10.3389/fnmol.2020.00134/full)               |             | 10x                 |                |                |
+| [Nagy et al., 2020](https://www.nature.com/articles/s41593-020-0621-y?proof=t)                          |             | 10x                 |                |                |
+| [Lau et al., 2020](https://www.pnas.org/content/117/41/25800#sec-8)                                     |             | 10x                 |                |                |
+| [Zhou et al., 2020](https://www.nature.com/articles/s41591-019-0695-9#Sec14)                            |             | 10x                 |                |                |
+| [Zhong et al., 2020](https://www.nature.com/articles/s41586-019-1917-5#Sec7)                            |             | 10x                 |                |                |
+| [Leng et al., 2021](https://www.nature.com/articles/s41593-020-00764-7)                                 |             | 10x                 |                |                |
+| [Khrameeva et al., 2021](https://science.sciencemag.org/content/370/6518/eaba7721)                      |             | 10x                 |                |                |
+| [Han et al., 2020](https://www.nature.com/articles/s41586-020-2157-4#Sec8)                              |             | Microwell-Seq       |                |                |
+| [Cao et al., 2020](https://science.sciencemag.org/content/370/6518/eaba7721)                            |             | sci-RNA-seq3        |                |                |
+| [Renthal et al., 2018](https://www.nature.com/articles/s41593-018-0270-6)                               |             | inDrops             |                |                |
+| [Fan et al., 2018](https://www.nature.com/articles/s41422-018-0053-3#Sec10)                             |             |  STRT-seq                   |                |                |
+| [Zhong et al., 2018](https://www.nature.com/articles/nature25980)                                       |             |  STRT-seq                    |                |                |
+| [Fan et al., 2020](https://advances.sciencemag.org/content/6/34/eaaz2978)                               |             |   STRT-seq                   |                |                |
 
 
 
@@ -125,7 +108,6 @@ Number of cells detected per cell cluster:
 [^5]: [https://www.nature.com/articles/s41593-020-0624-8](https://www.nature.com/articles/s41593-020-0624-8)
 [^6]: [https://www.nature.com/articles/s41593-020-00764-7](https://www.nature.com/articles/s41593-020-00764-7)
 [^7]: [https://advances.sciencemag.org/content/6/34/eaaz2978](https://advances.sciencemag.org/content/6/34/eaaz2978)
-[^8]: [https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-0880-6](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-0880-6)
 [^9]: [https://science.sciencemag.org/content/358/6368/1318](https://science.sciencemag.org/content/358/6368/1318)
 [^10]: [https://genome.cshlp.org/content/early/2020/05/19/gr.256958.119](https://genome.cshlp.org/content/early/2020/05/19/gr.256958.119)
 [^11]: [https://www.sciencedirect.com/science/article/pii/S0092867416313095](https://www.sciencedirect.com/science/article/pii/S0092867416313095)
@@ -133,7 +115,6 @@ Number of cells detected per cell cluster:
 [^13]: [https://www.nature.com/articles/nature25980](https://www.nature.com/articles/nature25980)
 [^14]: [https://www.biorxiv.org/content/10.1101/2020.05.11.088591v1](https://www.biorxiv.org/content/10.1101/2020.05.11.088591v1)
 [^15]: [https://www.frontiersin.org/articles/10.3389/fnmol.2020.00134/full](https://www.frontiersin.org/articles/10.3389/fnmol.2020.00134/full)
-[^16]: [https://www.nature.com/articles/s41593-019-0539-4](https://www.nature.com/articles/s41593-019-0539-4)
 [^17]: [https://www.nature.com/articles/s41467-019-10765-1](https://www.nature.com/articles/s41467-019-10765-1)
 [^18]: [https://www.nature.com/articles/s41593-018-0270-6](https://www.nature.com/articles/s41593-018-0270-6)
 [^19]: [https://link.springer.com/article/10.1186/s13059-016-0932-1#Sec10](https://link.springer.com/article/10.1186/s13059-016-0932-1#Sec10)
@@ -141,7 +122,7 @@ Number of cells detected per cell cluster:
 [^21]: [https://www.pnas.org/content/112/23/7285.long](https://www.pnas.org/content/112/23/7285.long)
 [^22]: [https://pubmed.ncbi.nlm.nih.gov/30545854/](https://pubmed.ncbi.nlm.nih.gov/30545854/)
 [^23]: [https://www.pnas.org/content/117/41/25800#sec-8](https://www.pnas.org/content/117/41/25800#sec-8)
-[^24]: [https://www.nature.com/articles/s41591-019-0695-9#Sec14](https://www.nature.com/articles/s41591-019-0695-9#Sec14)
+[^24]: [https://www.nature.com/articles/s41591-019-0695-9#Sec14](v)
 [^25]: [https://www.nature.com/articles/s41422-018-0053-3#Sec10](https://www.nature.com/articles/s41422-018-0053-3#Sec10)
 [^26]: [https://www.cell.com/action/showPdf?pii=S0896-6273%2819%2930054-6](https://www.cell.com/action/showPdf?pii=S0896-6273%2819%2930054-6)
 [^27]: [https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v2)
@@ -149,4 +130,3 @@ Number of cells detected per cell cluster:
 [^29]: [https://www.nature.com/articles/s41586-019-1917-5#Sec7](https://www.nature.com/articles/s41586-019-1917-5#Sec7)
 [^30]: [https://genome.cshlp.org/content/30/5/776](https://genome.cshlp.org/content/30/5/776)
 [^31]: [https://science.sciencemag.org/content/370/6518/eaba7721](https://science.sciencemag.org/content/370/6518/eaba7721)
-[^32]: [Jakel et al. 2019, Nature](https://doi.org/10.1038/s41586-019-0903-2)

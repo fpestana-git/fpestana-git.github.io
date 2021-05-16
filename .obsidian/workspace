@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "28e563ec5f502561",
+        "id": "27e6836a35e209d4",
         "type": "leaf",
-        "dimension": 49.7211155378486,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RNA-seq/2021-03-04-Access-datasets.md",
+            "file": "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "32c16a05b2e78584",
+        "id": "b05f4ac04741dafb",
         "type": "leaf",
-        "dimension": 50.2788844621514,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
+            "file": "RNA-seq/2021-03-02-Human-datasets.md",
             "mode": "preview"
           }
         }
@@ -72,16 +70,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b8fdda99400709d",
+        "id": "9164d2161bc6236d",
         "type": "tabs",
         "children": [
           {
-            "id": "2703d9f17d372c07",
+            "id": "a5ab6996777ba5c9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RNA-seq/2021-03-04-Access-datasets.md",
+                "file": "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,29 +89,21 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "49d1a0eddc09600d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 100,
+    "collapsed": true
   },
-  "active": "28e563ec5f502561",
+  "active": "27e6836a35e209d4",
   "lastOpenFiles": [
-    "RNA-seq/2021-03-04-Access-datasets.md",
     "SpatialTranscriptomics/2021-05-14-spatial-transcriptomics.md",
+    "RNA-seq/2021-03-02-Human-datasets.md",
+    "RNA-seq/2021-03-04-Access-datasets.md",
     "RNA-seq/2021-03-04-Library-prep.md",
     "RNA-seq/2021-03-04-RNA-seq-method.md",
-    "RNA-seq/2021-03-02-Human-datasets.md",
     "Disease/2021-03-03-DS-iPSC.md",
     "Disease/2021-03-02-DS-models.md",
     "Disease/2021-03-02-Down-Syndrome.md",
