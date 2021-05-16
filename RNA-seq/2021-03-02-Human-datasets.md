@@ -19,52 +19,47 @@ QUESTIONS:
 - 2020_Alsema [^15]: microglia; Smart-seq2 modified for 3'end. not useful
 - 2020_Bakken [^27]
 
-**[Fluidigm-C1](2021-03-04-Library-prep#Fluidigm-C1)**
-- 2015_Pollen [^20]: Kriegstein lab; SMARTer; 393 cells
-- 2015_Darmanis [^21] 466 cells
-- 2016_LaManno [^11] STRT protocol; 1777 cells
-- 2016_Lake[^4]: 3227 cells
-- 2016_Liu [^19]: Kriegstein lab; SMARTer; 226 cells
-- 2017_Nowakowski [^9]: Kriegstein lab. SMARTer tech
-- 2018_Li [^22]
-
-**[STRT-seq](2021-03-04-Library-prep^STRT-seq)**
 
 
-
-**SNARE-seq**
-- 2019_Chen [^28] : [raw data](https://knowledge.brain-map.org/data/TGNO3HM2KO03B5EWGBT/summary)
 
 **Multiomics**
 2019_Mayer[^26] calcium + scRNA-seq
 
 
 
-| Author                                                                                                  | Species     | Library Preparation | Number Samples |                |
-| ------------------------------------------------------------------------------------------------------- | ----------- | ------------------- | -------------- | -------------- |
-| [Hodge et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31435019/)                                         | Human/Mouse | Smart-seq           | 49494 nuclei   |                |
-| [Velmeshev et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31097668/)                                     | Human       | 10x                 | 104559 nuclei  | Kriegstein Lab |
-| [Mathys et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31042697/)                                        | Human       | 10x                 | 70634 nuclei   | Tsai Lab       |
-| [Sorrells et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31227709/)                                      |             | CEL-seq2            |                |                |
-| [Habib et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32341542/)                                         |             | Drop-seq            |                |                |
-| [Grubman et al., 2019](https://www.nature.com/articles/s41593-019-0539-4)                               |             | 10x                 |                |                |
-| [Jakel et al., 2019](https://doi.org/10.1038/s41586-019-0903-2)                                         |             | 10x                 |                |                |
-| [Al-Dalahmah et al., 2020](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-0880-6) |             | 10x                 |                |                |
-| [Khrameeva et al., 2020](https://genome.cshlp.org/content/early/2020/05/19/gr.256958.119)               |             | 10x                 |                |                |
-| [OteroGarcia et al., 2020](https://www.biorxiv.org/content/10.1101/2020.05.11.088591v1)                 |             | 10x                 |                |                |
-| [Alsema et al., 2020](https://www.frontiersin.org/articles/10.3389/fnmol.2020.00134/full)               |             | 10x                 |                |                |
-| [Nagy et al., 2020](https://www.nature.com/articles/s41593-020-0621-y?proof=t)                          |             | 10x                 |                |                |
-| [Lau et al., 2020](https://www.pnas.org/content/117/41/25800#sec-8)                                     |             | 10x                 |                |                |
-| [Zhou et al., 2020](https://www.nature.com/articles/s41591-019-0695-9#Sec14)                            |             | 10x                 |                |                |
-| [Zhong et al., 2020](https://www.nature.com/articles/s41586-019-1917-5#Sec7)                            |             | 10x                 |                |                |
-| [Leng et al., 2021](https://www.nature.com/articles/s41593-020-00764-7)                                 |             | 10x                 |                |                |
-| [Khrameeva et al., 2021](https://science.sciencemag.org/content/370/6518/eaba7721)                      |             | 10x                 |                |                |
-| [Han et al., 2020](https://www.nature.com/articles/s41586-020-2157-4#Sec8)                              |             | Microwell-Seq       |                |                |
-| [Cao et al., 2020](https://science.sciencemag.org/content/370/6518/eaba7721)                            |             | sci-RNA-seq3        |                |                |
-| [Renthal et al., 2018](https://www.nature.com/articles/s41593-018-0270-6)                               |             | inDrops             |                |                |
-| [Fan et al., 2018](https://www.nature.com/articles/s41422-018-0053-3#Sec10)                             |             |  STRT-seq                   |                |                |
-| [Zhong et al., 2018](https://www.nature.com/articles/nature25980)                                       |             |  STRT-seq                    |                |                |
-| [Fan et al., 2020](https://advances.sciencemag.org/content/6/34/eaaz2978)                               |             |   STRT-seq                   |                |                |
+| Author                                                                                                  | Species     | Library Preparation | Number Samples |                | Data availability                                                         |
+| ------------------------------------------------------------------------------------------------------- | ----------- | ------------------- | -------------- | -------------- | ------------------------------------------------------------------------- |
+| [Hodge et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31435019/)                                         | Human/Mouse | Smart-seq           | 49494 nuclei   |                |                                                                           |
+| [Velmeshev et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31097668/)                                     | Human       | 10x                 | 104559 nuclei  | Kriegstein Lab |                                                                           |
+| [Mathys et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31042697/)                                        | Human       | 10x                 | 70634 nuclei   | Tsai Lab       |                                                                           |
+| [Sorrells et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31227709/)                                      |             | CEL-seq2            |                |                |                                                                           |
+| [Habib et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32341542/)                                         |             | Drop-seq            |                |                |                                                                           |
+| [Grubman et al., 2019](https://www.nature.com/articles/s41593-019-0539-4)                               |             | 10x                 |                |                |                                                                           |
+| [Jakel et al., 2019](https://doi.org/10.1038/s41586-019-0903-2)                                         |             | 10x                 |                |                |                                                                           |
+| [Al-Dalahmah et al., 2020](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-0880-6) |             | 10x                 |                |                |                                                                           |
+| [Khrameeva et al., 2020](https://genome.cshlp.org/content/early/2020/05/19/gr.256958.119)               |             | 10x                 |                |                |                                                                           |
+| [OteroGarcia et al., 2020](https://www.biorxiv.org/content/10.1101/2020.05.11.088591v1)                 |             | 10x                 |                |                |                                                                           |
+| [Alsema et al., 2020](https://www.frontiersin.org/articles/10.3389/fnmol.2020.00134/full)               |             | 10x                 |                |                |                                                                           |
+| [Nagy et al., 2020](https://www.nature.com/articles/s41593-020-0621-y?proof=t)                          |             | 10x                 |                |                | [GSE144136](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE144136) |
+| [Lau et al., 2020](https://www.pnas.org/content/117/41/25800#sec-8)                                     | Human       | 10x                 | 169496 nuclei  | AD             | [GSE157827](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157827) |
+| [Zhou et al., 2020](https://www.nature.com/articles/s41591-019-0695-9#Sec14)                            |             | 10x                 |                |                |                                                                           |
+| [Zhong et al., 2020](https://www.nature.com/articles/s41586-019-1917-5#Sec7)                            |             | 10x                 |                |                |                                                                           |
+| [Leng et al., 2021](https://www.nature.com/articles/s41593-020-00764-7)                                 |             | 10x                 |                |                |                                                                           |
+| [Khrameeva et al., 2021](https://science.sciencemag.org/content/370/6518/eaba7721)                      |             | 10x                 |                |                |                                                                           |
+| [Han et al., 2020](https://www.nature.com/articles/s41586-020-2157-4#Sec8)                              |             | Microwell-Seq       |                |                |                                                                           |
+| [Cao et al., 2020](https://science.sciencemag.org/content/370/6518/eaba7721)                            |             | sci-RNA-seq3        |                |                |                                                                           |
+| [Renthal et al., 2018](https://www.nature.com/articles/s41593-018-0270-6)                               |             | inDrops             |                |                |                                                                           |
+| [Fan et al., 2018](https://www.nature.com/articles/s41422-018-0053-3#Sec10)                             |             | STRT-seq            |                |                |                                                                           |
+| [Zhong et al., 2018](https://www.nature.com/articles/nature25980)                                       |             | STRT-seq            |                |                |                                                                           |
+| [Fan et al., 2020](https://advances.sciencemag.org/content/6/34/eaaz2978)                               |             | STRT-seq            |                |                |                                                                           |
+| [Chen et al., 2019](https://www.nature.com/articles/s41587-019-0290-0#data-availability)                |             | SNARE-seq           |                |                |                                                                           |
+| [Pollen et al., 2015](https://www.cell.com/cell/pdf/S0092-8674(15)01124-1.pdf)                          |             | Fluidgm-C1-SMARTer  | 393            | Kriegstein Lab |                                                                           |
+| [Darmanis et al., 2015](https://www.pnas.org/content/112/23/7285.long)                                  |             | Fluidgm-C1          | 466            |                |                                                                           |
+| [LaManno et al., 2016](https://www.sciencedirect.com/science/article/pii/S0092867416313095)             |             | Fluidgm-C1-STRT     | 1777           |                |                                                                           |
+| [Lake et al., 2016](https://science.sciencemag.org/content/352/6293/1586)                               |             | Fluidgm-C1          | 3227           |                |                                                                           |
+| [Liu et al., 2016](https://link.springer.com/article/10.1186/s13059-016-0932-1#Sec10)                   |             | Fluidgm-C1-SMARTer  | 226            | Kriegstein Lab |                                                                           |
+| [Nowakowski et al., 2017](https://science.sciencemag.org/content/358/6368/1318)                         |             | Fluidgm-C1-SMARTer  |                | Kriegstein Lab |                                                                           |
+| [Li et al., 2018](https://pubmed.ncbi.nlm.nih.gov/30545854/)                                            |             | Fluidgm-C1          |                |                |                                                                           |
 
 
 
