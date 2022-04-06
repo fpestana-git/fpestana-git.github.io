@@ -2,6 +2,6 @@
 sort: 2
 ---
 
-# Publications
+# Data Analysis
 
 {% include list.liquid %}

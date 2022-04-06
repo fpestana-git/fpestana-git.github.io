@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# RNA-sequencing
+# Resources
 
 {% include list.liquid %}
 
