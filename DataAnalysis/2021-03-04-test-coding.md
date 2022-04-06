@@ -26,4 +26,4 @@ ggplot(mpg, aes(displ, hwy)) +
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](unnamed-chunk-1-1.png)
+![](figure-markdown_github/unnamed-chunk-1-1.png)
