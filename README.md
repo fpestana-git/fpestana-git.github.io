@@ -4,7 +4,9 @@ title: FPKnowledgeBase
 
 # Welcome to my personal knowledge base
 
-In this knowledge database I intend to explore the current state-of-the-art knowledge on several topics, to learn and understand the gaps I have in my knowledge. Also, useful references and resources will be shown whenever I found them useful.
+In this personal knowledge database I will compile information on resources such as methodologies and publically available datasets.
+
+I will also include data analysis guides.
 
 ### Content
 

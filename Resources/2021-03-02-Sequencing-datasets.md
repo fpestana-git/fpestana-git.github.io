@@ -1,4 +1,4 @@
-# Human datasets
+# RNA-sequencing datasets
 
 
 [List with datasets](https://pubmed.ncbi.nlm.nih.gov/29096072/)
