@@ -13,7 +13,7 @@ QUESTIONS:
 
 
 
-**[SMART-seq technology](2021-03-04-Library-prep#SMART-seq-technologies)**
+**[SMART-seq technology](2021-03-04-Library-prep.md#SMART-seq-technologies)**
 
 - [2019_Hodge](#hodge-et-al-2019) [^1]: Has restricted access (nemoarchive); Ed Lein lab
 - 2020_Alsema [^15]: microglia; Smart-seq2 modified for 3'end. not useful

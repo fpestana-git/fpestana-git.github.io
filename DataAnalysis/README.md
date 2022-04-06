@@ -2,6 +2,6 @@
 sort: 2
 ---
 
-# Disease
+# Publications
 
 {% include list.liquid %}
